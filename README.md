@@ -28,7 +28,7 @@ ZapRide is designed with a strong focus on usability, offering clean UI componen
 git clone https://github.com/AGNIHOTRIMAHI/ZapRide.git
 
 # Navigate to the project directory
-cd Car-Saathi
+cd ZapRide
 
 # Install server-side dependencies
 cd server
