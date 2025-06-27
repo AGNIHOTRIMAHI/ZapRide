@@ -1,0 +1,1 @@
+export const GMapAPI ="AIzaSyClnzcci8V997acQhlpEiYhaLlz_ogR_Vc";
