@@ -4,7 +4,7 @@ import "./Button.css";
 
 function Button() {
   return (
-    <Link to="/booking"> 
+    <Link to="/search"> 
       <button className="book-button">Book Ride</button>
     </Link>
   );

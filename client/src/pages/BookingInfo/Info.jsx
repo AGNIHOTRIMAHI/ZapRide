@@ -14,7 +14,7 @@ function DriverInfoPage({user}) {
                     </div>
                     <div className="driver-details">
                         <h2>Driver Information</h2>
-                        <p>Name: Sahil Gupta</p>
+                        <p>Name: XYZ</p>
                         <p>Age: 24</p>
                         <p>License Number: HAI HI NAW</p>
                     </div>
