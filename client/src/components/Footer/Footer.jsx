@@ -44,15 +44,13 @@ function Footer() {
             <h6 className="font-medium text-[#00df9a] mb-2">Developers</h6>
             <ul>
               <li className="py-2 text-sm hover:text-[#00df9a]">
-                Rudra Sharma
+                Mahi Agnihotri
               </li>
-              <li className="py-2 text-sm hover:text-[#00df9a]">Sahil Gupta</li>
+              <li className="py-2 text-sm hover:text-[#00df9a]">Kavya Singh</li>
               <li className="py-2 text-sm hover:text-[#00df9a]">
-                Khanak Patwari
+                Piyush Mishra
               </li>
-              <li className="py-2 text-sm hover:text-[#00df9a]">
-                Kritarth Shrivastava
-              </li>
+              
             </ul>
           </div>
         </div>

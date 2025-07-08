@@ -2,7 +2,8 @@ import { Server } from "socket.io";
 
 const io = new Server(10000,{ 
     cors: {
-        origin:"https://carsaathi-carpool.netlify.app"//react application http
+        //origin:"https://carsaathi-carpool.netlify.app"//react application http
+         origin: ['http://localhost:3000', 'https://carsaathi-carpool.netlify.app']
     }
 });
 
